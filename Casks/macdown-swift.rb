@@ -1,6 +1,6 @@
 cask "macdown-swift" do
-  version "1.1"
-  sha256 "44d0956a75b0f7d77680347f80fb2ff8734aa91a913054a5b5dd98e2f68585ec"
+  version "1.2"
+  sha256 "47379bc3fd752295300f561ee6c8e1b0f0c4bc5f4d4bb70aaa8fbeee57758320"
 
   url "https://github.com/levous/macdown-swift/releases/download/v#{version}/MacDown-#{version}.zip"
   name "MacDown (Swift)"
